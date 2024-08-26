@@ -285,6 +285,9 @@ vendor\.mediatek\..*
 com\.nothing
 com\.nothing\..*
 
+# LMODroid adds
+com\.libremobileos\..*
+
 # NV adds
 com\.nvidia
 com\.nvidia\..*
