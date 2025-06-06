@@ -270,6 +270,10 @@ com\.google\.wear\..*
 lineageos\.platform
 org\.lineageos\.platform\.internal
 
+# Infinity adds
+com.infinity.*
+vendor.infinity.*
+
 # NT adds
 com\.nothing
 com\.nothing\..*
